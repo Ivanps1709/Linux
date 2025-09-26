@@ -13,9 +13,9 @@ Las imágenes estarán guardadas en la carpeta [`img/`](./img).
 
 ### Ejemplo:
 - Comando: `ip a`  
-  ![Captura ip a](./img/ip_a.png)  
+  ![Captura ip a](./img/hostname.png)  
   En esta captura se observa:  
-  - El **nombre de la tarjeta de red** (subrayado en rojo).  
+  - El **nombre de la tarjeta de red**   
   - La **dirección IP asignada**.  
   - Si la tarjeta está **activada o desactivada**.
 
@@ -25,4 +25,4 @@ Las imágenes estarán guardadas en la carpeta [`img/`](./img).
 
 ## Autor
 
-✍️ [Tu Nombre o Iniciales]
+✍️ Iván Palma Sierra
