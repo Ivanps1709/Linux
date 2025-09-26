@@ -19,8 +19,6 @@ Las imágenes estarán guardadas en la carpeta [`img/`](./img).
   - La **dirección IP asignada**.  
   - Si la tarjeta está **activada o desactivada**.
 
-*(Aquí irás añadiendo más comandos y capturas, con anotaciones en rojo o subrayados para destacar la información importante).*
-
 ---
 
 ## Autor
